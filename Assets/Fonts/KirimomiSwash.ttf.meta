@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c7a5c20f97a268f42808b7de442c2f9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - KirimomiSwash
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 087956da1b1419247947ad16fce73654, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
